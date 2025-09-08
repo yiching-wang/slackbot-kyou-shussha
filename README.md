@@ -15,6 +15,10 @@
 - AWS や社内サーバーなど、常時稼働する環境が必要です  
 - 現状は **ローカル実行でのデモ** が可能ですが、本番稼働には追加の環境構築が必要です  
 
+## DEMO
+- 出社検知 https://drive.google.com/file/d/1B7OJ_Fr1qhbWBwYyAhRLfz9ExXaW92ZG/view?usp=sharing
+- 出社キャンセル https://drive.google.com/file/d/146JFt8cYdLv_iHe1gH4NekxJJeBfPaK_/view?usp=sharing
+
 ## 将来の発展性（アイデア）
 
 - 出社リスト表示（/出社リスト コマンドで確認）  
